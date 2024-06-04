@@ -1,5 +1,6 @@
 Sheep Detection and Counting in Video using YOLO
 This project aims to detect and count sheep in a given video using the YOLO (You Only Look Once) object detection model. The program processes the video frame by frame and counts the number of unique sheep that appear in a specified region of interest.
+![Uploading image.png…]()
 
 Project Overview
 The project uses the following technologies and libraries:
